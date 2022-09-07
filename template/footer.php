@@ -1,6 +1,6 @@
-<footer class="container-fluid bg-dark fixed-bottom">
+<footer class="container-fluid bg-dark bottom">
 <div class="row">
-    <div class="col-md text-light text-center py-3">
+    <div class="col-md text-light text-center py-1">
         Desarrollado por Jordan Pauca
     </div>
 </div>
